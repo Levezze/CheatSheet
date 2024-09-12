@@ -91,19 +91,18 @@ h3.section-title {
 }
 
 .sections {
-    padding: 0 30em;
-    height: 35em;
+    height: 32em;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
+    padding: 0 30px;
     background-color: goldenrod;
-
 }
 
 .content {
     box-sizing: border-box;
     margin: 0 auto;
-    width: 30em;
+    width: 28em;
     height: 25em;
     background-color: aliceblue;
     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
